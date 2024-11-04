@@ -320,7 +320,7 @@ Where *<app name>* is the name of the application instance you want to connect t
 . /home/vcap/app/bin/cf_env_setup.sh
 ```
 
-More information about using SSH with cloud.dov can be found in the [cloud.gov SSH documentation](https://cloud.gov/docs/apps/using-ssh/#cf-ssh).
+More information about using SSH with cloud.gov can be found in the [cloud.gov SSH documentation](https://cloud.gov/docs/apps/using-ssh/#cf-ssh).
 
 ## Accounts
 Accounts are handled in the cms admin. All accounts will be reviewed annually.
